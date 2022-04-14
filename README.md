@@ -1,5 +1,5 @@
 # Wordle
-A popular word guessing game
+A popular word guessing game\n
 If you want to play this game, go straight to the file <Wordle CPP.exe> 
 And plz mind is an exe.
 But if you want to see our code 
